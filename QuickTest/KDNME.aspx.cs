@@ -19,7 +19,7 @@ namespace QuickTest
                 var label = new Label();
                 fontCounter++;
                 label.Font.Size = fontCounter;
-                label.Text = "La page dynamique en ASP.NET";
+                label.Text = "La page dynamique en ASP.NET"; 
                 label.Font.Size = GetIncrementedLabelFontSize(label);
                 color = GetColor(color);
                 label.ForeColor = color;

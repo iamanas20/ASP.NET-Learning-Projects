@@ -1,0 +1,3 @@
+<h1>ASP.NET-Learning-Projects</h1>
+
+These are my personal projects (school and my personal ones), to start learning ASP.NET, and what has to provide, I have already hands on some pretty advanced concepts in .NET framework, I have developed a couple UWP store ready apps and so on and so forth, and ASP.NET seems a good jump to make, so let's do it...

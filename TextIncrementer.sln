@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextIncrementer", "QuickTest\TextIncrementer.csproj", "{4F011521-6109-437C-973C-EA2974A15EA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginAndPasswordValidation", "LoginAndPasswordValidation\LoginAndPasswordValidation.csproj", "{E4965F11-A5B2-40C1-B1A1-2F96DEA019D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextIncrementerAvecCouleur", "TextIncrementerAvecCouleur\TextIncrementerAvecCouleur.csproj", "{E43E3AC9-7E77-4EDC-BF66-FC43B5B92BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F011521-6109-437C-973C-EA2974A15EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F011521-6109-437C-973C-EA2974A15EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F011521-6109-437C-973C-EA2974A15EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F011521-6109-437C-973C-EA2974A15EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4965F11-A5B2-40C1-B1A1-2F96DEA019D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4965F11-A5B2-40C1-B1A1-2F96DEA019D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4965F11-A5B2-40C1-B1A1-2F96DEA019D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4965F11-A5B2-40C1-B1A1-2F96DEA019D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E43E3AC9-7E77-4EDC-BF66-FC43B5B92BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43E3AC9-7E77-4EDC-BF66-FC43B5B92BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43E3AC9-7E77-4EDC-BF66-FC43B5B92BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43E3AC9-7E77-4EDC-BF66-FC43B5B92BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FF2B6A5-4387-40E9-824A-81E6AF5BCE66}
+	EndGlobalSection
+EndGlobal
